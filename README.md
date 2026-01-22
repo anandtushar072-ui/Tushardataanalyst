@@ -23,6 +23,9 @@ Analyzed 10M+ e-commerce sales records for trends and insights.
 ![Top Product Categories - Sales Amount](<img width="570" height="302" alt="Flipkart- Top-Product-Category" src="https://github.com/user-attachments/assets/42cb4030-3b21-4f9c-89f7-9880db5368c7" />)
 ![Sales Breakdown by Region and Payment Method](<img width="500" height="316" alt="Sales- Breakdown-Payment-Method" src="https://github.com/user-attachments/assets/68f6137f-20f2-4b00-a232-3bfe05e58e29" />)
 
+**Download Project File:**  
+https://raw.githubusercontent.com/anandtushar072-ui/Tushardataanalyst/refs/heads/main/Flipkart%20Dashboard%20.pbix
+
 ## Contact
 - Email: anandtushar072@gmail.com
 - LinkedIn: https://www.linkedin.com/in/tusharanand-dataanalyst
