@@ -17,12 +17,6 @@ Analyzed 10M+ e-commerce sales records for trends and insights.
 
 **Live Dashboard** https://app.powerbi.com/view?r=eyJrIjoiZjhlNGU0ZWItMWU5OS00MjUzLWEyZjEtYWExOWY2NDU1M2NlIiwidCI6IjAyZjIzOTU1LTc0NzMtNGZmNy1hNzU2LWUzYzY3MTY0MzVjOCJ9
 
-**Screenshots:**
-![Flipkart Sales Dashboard Full View](Flipkart-Sales-Dashboard-Screensh)  
-![Payment Methods Distribution](<img width="500" height="300" alt="Flipkart-payment-pie" src="https://github.com/user-attachments/assets/ccf697aa-7e7c-452e-a5ad-7fe40e91c0e5" />)
-![Top Product Categories - Sales Amount](<img width="570" height="302" alt="Flipkart- Top-Product-Category" src="https://github.com/user-attachments/assets/42cb4030-3b21-4f9c-89f7-9880db5368c7" />)
-![Sales Breakdown by Region and Payment Method](<img width="500" height="316" alt="Sales- Breakdown-Payment-Method" src="https://github.com/user-attachments/assets/68f6137f-20f2-4b00-a232-3bfe05e58e29" />)
-
 **Download Project File:**  
 https://raw.githubusercontent.com/anandtushar072-ui/Tushardataanalyst/refs/heads/main/Flipkart%20Dashboard%20.pbix
 
